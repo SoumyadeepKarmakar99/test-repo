@@ -1,1 +1,2 @@
 add another line in test-file.txt
+3rd line in test-file.txt
